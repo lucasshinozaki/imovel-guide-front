@@ -1,0 +1,15 @@
+.square {
+    color: black;
+    display: flex;
+    flex-direction: column;
+  
+    border: 1px solid #787878;
+    border-radius: 8px;
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.square.no-border {
+  border: none;
+}
