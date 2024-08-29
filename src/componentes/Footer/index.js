@@ -13,7 +13,7 @@ function Footer() {
             </div>
             <div className='footer-right'>
                 <p>&copy; Copyright 2022. Todos os direitos reservados.</p>
-                <img src="/images/logo-imovel-guide.png"
+                <img src={`${process.env.PUBLIC_URL}/images/logo-imovel-guide.png`}
                     alt="Logo"
                     className="footer-logo"/>
             </div>

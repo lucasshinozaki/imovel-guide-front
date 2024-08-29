@@ -81,6 +81,7 @@ function Square3() {
                 <div className='input-wrapper'>
                     <input 
                         type='number' 
+                        className='input-n4'
                         value={n4} 
                         ref={refn4}
                         min="0"

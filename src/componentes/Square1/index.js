@@ -19,8 +19,8 @@ function Square1(){
     <div className="image-info-container">
       <div className="image-info-item">
         <div className="image-container">
-            <img src="./images/person.jpeg" alt="Imagem 1" className="background-image"/>
-            <img src="./images/person.jpeg" alt="Imagem 1" className="foreground-image"/>
+            <img src={`${process.env.PUBLIC_URL}/images/person.jpeg`} alt="Imagem 1" className="background-image"/>
+            <img src={`${process.env.PUBLIC_URL}/images/person.jpeg`} alt="Imagem 1" className="foreground-image"/>
         </div>
         <div className="info">
             <h3>Nome Corretor</h3>
@@ -33,8 +33,8 @@ function Square1(){
       </div>
       <div className="image-info-item">
         <div className="image-container">
-            <img src="./images/person2.jpeg" alt="Imagem 2" className="background-image"/>
-            <img src="./images/person2.jpeg" alt="Imagem 2" className="foreground-image"/>
+            <img src={`${process.env.PUBLIC_URL}/images/person2.jpeg`} alt="Imagem 2" className="background-image"/>
+            <img src={`${process.env.PUBLIC_URL}/images/person2.jpeg`} alt="Imagem 2" className="foreground-image"/>
         </div>
         <div className="info">
             <h3>Nome Corretora</h3>

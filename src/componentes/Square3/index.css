@@ -17,6 +17,10 @@
     text-align: center;
   }
 
+  .calc .input-n4 {
+    border: 2px solid #FE6613;
+  }
+
   .input-wrapper:nth-child(1):after,
   .input-wrapper:nth-child(3):after {
     content: '';

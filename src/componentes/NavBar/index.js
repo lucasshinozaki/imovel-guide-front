@@ -9,7 +9,7 @@ function NavBar() {
         <div>
             <nav className="navbar">
                 <div className="nav-left">
-                    <img src="/images/logo-imovel-guide.png"
+                    <img src={`${process.env.PUBLIC_URL}/images/logo-imovel-guide.png`}
                     alt="Logo"
                     className="nav-logo"/>
                     <ul className="nav-menu">
