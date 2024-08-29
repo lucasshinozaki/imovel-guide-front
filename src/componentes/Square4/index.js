@@ -19,7 +19,7 @@ function Square4(){
                     <div className='modal-container-button'>
                         <button onClick={closeModal}>X</button> <hr/>
                     </div>
-                    <img src="./images/home.jpeg" alt="home" />
+                    <img src="{`${process.env.PUBLIC_URL}/images/home.jpeg`}" alt="home" />
                 </div>
             </>
         )}  
