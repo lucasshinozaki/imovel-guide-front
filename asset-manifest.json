@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/imovel-guide-front/static/css/main.5fcf69e5.css",
+    "main.js": "/imovel-guide-front/static/js/main.7ee8135c.js",
+    "static/js/453.d870d308.chunk.js": "/imovel-guide-front/static/js/453.d870d308.chunk.js",
+    "static/media/home.jpeg": "/imovel-guide-front/static/media/home.f657c73569eb246470bf.jpeg",
+    "index.html": "/imovel-guide-front/index.html",
+    "main.5fcf69e5.css.map": "/imovel-guide-front/static/css/main.5fcf69e5.css.map",
+    "main.7ee8135c.js.map": "/imovel-guide-front/static/js/main.7ee8135c.js.map",
+    "453.d870d308.chunk.js.map": "/imovel-guide-front/static/js/453.d870d308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fcf69e5.css",
+    "static/js/main.7ee8135c.js"
+  ]
+}
